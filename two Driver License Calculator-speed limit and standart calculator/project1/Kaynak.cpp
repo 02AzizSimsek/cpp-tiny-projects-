@@ -10,7 +10,7 @@ int main() {
 					 //spelling with if blocks
 				 // Driver License Point Calculator 
 	
-	/*
+	
 	int speed;
 	int Point = 100;
 
@@ -36,7 +36,7 @@ int main() {
 		cout << "The Remaining Driver's License Points:" << Point - 40 << endl;
 	}
 
-	*/
+	
 
    //**************************************************************************************************
 
