@@ -1,0 +1,5 @@
+﻿  Kaynak.cpp
+C:\Users\LENOVO\Desktop\c++ projects\stars\Project5\Project5\Kaynak.cpp(32,24): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\LENOVO\Desktop\c++ projects\stars\Project5\Project5\Kaynak.cpp(40,21): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\LENOVO\Desktop\c++ projects\stars\Project5\Project5\Kaynak.cpp(53,19): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Project5.vcxproj -> C:\Users\LENOVO\Desktop\c++ projects\stars\Project5\Debug\Project5.exe
